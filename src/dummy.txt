@@ -1,0 +1,41 @@
+        {/* <Grid container  alignItems="center">
+                <Grid item xs={12} sm={3}>
+                <Avatar src="https://cdn-icons-png.flaticon.com/512/2285/2285545.png" variant="square" sx={{ width: 48, height: 48, margin: "0 auto" }}/>
+                </Grid>
+
+                <Grid item xs={12} sm={3}>
+                <Typography
+            variant="subtitle2"
+            noWrap
+            component="div"
+            style={{ color: "#000000" }}
+            sx={{ display: { xs: "none", sm: "block", textAlign:"center" } }}
+          >
+            NIFTY
+          </Typography>
+                </Grid>
+
+                <Grid item xs={12} sm={3}>
+                <Typography
+            variant="subtitle2"
+            noWrap
+            component="div"
+            style={{ color: "#000000" }}
+            sx={{ display: { xs: "none", sm: "block" , textAlign:"center"  }}}
+          >
+            17,245.65
+          </Typography>
+                </Grid>
+
+                <Grid item xs={12} sm={3}>
+                <Typography
+            variant="subtitle2"
+            noWrap
+            component="div"
+            style={{ color: 'red' }}
+            sx={{ display: { xs: "none", sm: "block", textAlign:"center" }}}
+          >
+            -69.85(0.40%)
+          </Typography>
+                </Grid>
+            </Grid> */}
